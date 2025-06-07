@@ -1,0 +1,6 @@
+[submodule "internal/go-benchmarks"]
+	path = internal/go-benchmarks
+	url = https://github.com/audiomage-dev/go-benchmarks.git
+[submodule "pkg/go-magefile"]
+	path = pkg/go-magefile
+	url = https://github.com/audiomage-dev/go-magefile.git
